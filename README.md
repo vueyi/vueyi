@@ -1,3 +1,5 @@
+![Screenshot_2024-05-06-22-43-26-47_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/vueyi/vueyi/assets/130923270/3e6b6ef0-df15-4e93-bae8-e1874f48f57a)
+![Screenshot_2024-05-14-09-19-39-18_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/vueyi/vueyi/assets/130923270/80acd004-fa5d-42e0-a52b-9156d12f9bdb)
 部署教程
 --------------------------
 1. 安装JDK,maven,并添加映射，安装redis
